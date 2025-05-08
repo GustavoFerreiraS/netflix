@@ -17,9 +17,6 @@ Este repositório foi criado como uma atividade prática para desenvolver uma **
 
 Reproduzir uma interface visual semelhante à da Netflix como exercício de prática em HTML, organização de pastas e estruturação básica de páginas web.
 
-## 📸 Preview
-
-> *(Adicione uma captura de tela aqui, se desejar)*
 
 ## 👨‍💻 Autor
 
